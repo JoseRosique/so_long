@@ -8,7 +8,7 @@ or installing it using its sources.</p>
 <p>• You have to turn in a Makefile which will compile your source files. It must not
 relink.</p>
 <p>• Your program has to take as parameter a map description file ending with the .ber
-extension.</p>
+extension.<p/n>
 <b>Game</b>
 <p>• The player’s goal is to collect every collectible present on the map, then escape
 chosing the shortest possible route.</p>
