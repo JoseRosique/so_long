@@ -19,14 +19,14 @@ chosing the shortest possible route.</p>
 <p>• You have to use a 2D view (top-down or profile).</p>
 <p>• The game doesn’t have to be real time.</p>
 <p>• Although the given examples show a dolphin theme, you can create the world you
-want.</p>
+want.<p/n>
 <b>Graphic management</b>
 <p>• Your program has to display the image in a window.</p>
 <p>• The management of your window must remain smooth (changing to another window, minimizing, and so forth).</p>
 <p>• Pressing ESC must close the window and quit the program in a clean way.</p>
 <p>• Clicking on the cross on the window’s frame must close the window and quit the
 program in a clean way.</p>
-<p>• The use of the images of the MiniLibX is mandatory.</p>
+<p>• The use of the images of the MiniLibX is mandatory.<p/n>
 <b>Map</b>
 <p>• The map has to be constructed with 3 components: walls, collectibles, and free
 space.</p>
